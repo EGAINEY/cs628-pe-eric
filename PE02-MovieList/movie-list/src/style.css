@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+select, ul {
+  margin-top: 15px;
+}
+
+li {
+  display: flex;
+  align-items: start;
+  background-color: #cecece;
+  margin: 10px auto;
+  padding: 20px;
+  width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+li img {
+  margin-right: 75px;
+  width: 100px;
+  height: 150px;
+}
+
+.detail {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.detail label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+select {
+  width: 180px;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+label {
+  font-size: 18px;
+  font-weight: bold;
+}
